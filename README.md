@@ -1,2 +1,1 @@
-# Licitexpert-web
-Sitio web profesional de asesoría y soluciones empresariales
+Proyecto listo para producción
